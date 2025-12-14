@@ -8,7 +8,7 @@ export default function Header() {
             <div className={styles.container}>
                 <Link href="/" className={styles.logo}>
                     <Smile size={32} color="var(--primary-yellow)" strokeWidth={2.5} />
-                    Smile<span>Loans</span>
+                    Smile<span>We Care</span>
                 </Link>
 
                 <nav className={styles.nav}>
