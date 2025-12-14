@@ -30,7 +30,7 @@ export default function Hero() {
 
                 <div className={styles.stats}>
                     <div className={styles.statItem}>
-                        <span className={styles.statNumber}>$500M+</span>
+                        <span className={styles.statNumber}>&#x20A6; 50M+</span>
                         <span className={styles.statLabel}>Funded</span>
                     </div>
                     <div className={styles.statItem}>
@@ -38,7 +38,7 @@ export default function Hero() {
                         <span className={styles.statLabel}>Approval Time</span>
                     </div>
                     <div className={styles.statItem}>
-                        <span className={styles.statNumber}>15k+</span>
+                        <span className={styles.statNumber}>5k+</span>
                         <span className={styles.statLabel}>Happy Businesses</span>
                     </div>
                 </div>
